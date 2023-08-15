@@ -6,7 +6,7 @@ ray-tracing-app es el proyecto de DA1, donde construimos una aplicación usando 
 
 # Instalación
 
-Se encuentra, en el último commit, la documentación, el release con la aplicación compilada, el código fuente de la aplicación, y el directorio de bases de datos, que incluye tanto para la base de datos principal como de backup, los archivos .bak y los scripts de creación. El ejecutable se encuentra dentro de la carpeta release. Para iniciar la aplicación, primero es necesario restaurar la base de datos, para ello se encuentran los archivos .bak con y sin datos, en las siguientes rutas: _db/Schema&Data/Backup.bak_ y _db/SchemaOnly/Backup.bak_ respectivamente.
+El ejecutable se encuentra dentro de la carpeta release. Para iniciar la aplicación, primero es necesario restaurar la base de datos, para ello se encuentran los archivos .bak con y sin datos, en las siguientes rutas: _db/Schema&Data/Backup.bak_ y _db/SchemaOnly/Backup.bak_ respectivamente.
 
 # Descripción general del sistema
 
